@@ -35,7 +35,7 @@ if exists('g:lightline')
 	let s:p.replace.left    = [[s:base03, s:red    ], [s:base03, s:base00]]
 	let s:p.visual.left     = [[s:base03, s:magenta], [s:base03, s:base00]]
 	let s:p.tabline.left    = [[ s:base03, s:base00]]
-	let s:p.tabline.right   = copy(s:p.normal.right)
+	let s:p.tabline.right   = copy(s:p.tabline.left)
 	let s:p.tabline.middle  = [[ s:base0 , s:base02]]
 	let s:p.tabline.tabsel  = [[ s:base03, s:base1 ]]
 	let s:p.normal.error    = [[ s:base03, s:red   ]]
