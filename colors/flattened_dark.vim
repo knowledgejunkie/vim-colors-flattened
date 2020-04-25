@@ -115,6 +115,10 @@ hi  htmlTagName                             cterm=NONE  ctermfg=4  guifg=#268bd2
 
 hi  javaScript                              cterm=NONE  ctermfg=3  guifg=#b58900  gui=NONE
 
+hi  lineAdded                               cterm=NONE  ctermfg=2  guifg=#719e07  gui=NONE
+hi  lineModified                            cterm=NONE  ctermfg=3  guifg=#b58900  gui=NONE
+hi  lineRemoved                             cterm=NONE  ctermfg=1  guifg=#dc322f  gui=NONE
+
 hi  pandocBlockQuote                        cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi  pandocBlockQuoteLeader1                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi  pandocBlockQuoteLeader2                 cterm=NONE  ctermfg=6  guifg=#2aa198  gui=NONE
