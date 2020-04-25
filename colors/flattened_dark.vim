@@ -35,7 +35,7 @@ hi  Folded                                  cterm=NONE  ctermfg=12  ctermbg=0  g
 hi  HelpExample                             cterm=NONE  ctermfg=14  guifg=#93a1a1  gui=NONE
 hi  Identifier                              cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#cb4b16  gui=standout
-hi  LineNr                                  cterm=NONE  ctermfg=10  ctermbg=0  guifg=#586e75  guibg=#073642  gui=NONE
+hi  LineNr                                  cterm=NONE  ctermfg=10  ctermbg=NONE  guifg=#586e75  guibg=NONE  gui=NONE
 hi  MatchParen                              cterm=NONE  ctermfg=1  ctermbg=10  guifg=#dc322f  guibg=#586e75  gui=NONE
 hi  ModeMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi  MoreMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
